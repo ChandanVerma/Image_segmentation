@@ -1,6 +1,6 @@
 albumentations==0.4.3
 astroid==2.3.3
-certifi==2019.9.11
+certifi==2022.12.7
 colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.1
